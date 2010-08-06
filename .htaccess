@@ -1,0 +1,7 @@
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^dooogle.coryarcangel.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www.dooogle.coryarcangel.com$
+RewriteRule ^(.*)$ "http\:\/\/www\.dooogle\.com" [R=301,L]
+
