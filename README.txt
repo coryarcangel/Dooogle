@@ -10,4 +10,4 @@
 ;
 ;********************************************************
 
-Google emulator that returns results for "Doogie Howser" (no matter what is typed in).
+Google emulator that returns results for "Doogie Howser" (no matter what is typed in)É.
